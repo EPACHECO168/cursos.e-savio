@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1789298438719,
+      "tag": "0000_create_client_profiles",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1790803253931,
+      "tag": "0001_cursos_mercadopago_estrutura",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1791403905589,
+      "tag": "0002_admin_roles",
+      "breakpoints": true
+    }
+  ]
+}
